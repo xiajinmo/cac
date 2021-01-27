@@ -7,15 +7,16 @@
 * 2.说明
     * [2.1.平台用户权限说明](Chapter2/permission_description.md)
 * 3.总览
-    * [3.1.超级管理员总览界面](Chapter3/root_manager_view.md)
+    * 3.1.超级管理员
+      * [3.1.1.超级管理员总览界面](Chapter3/root_manager_view.md)
+      * [3.1.2.区域分布图页面](Chapter3/regional_distribution.md)
     * [3.2.业务管理员总览界面](Chapter3/company_manager_view.md)
     * [3.3.部门管理员总览界面](Chapter3/department_manager_view.md)
     * [3.4.普通用户总览界面](Chapter3/user_manager_view.md)
-    * [3.5.区域分布图页面](Chapter3/regional_distribution.md)
 * 4.资源管理
     * 4.1.概览
-        * [4.1.概览](Chapter4/zone_summary.md)
-        * [4.2.分布式存储监控](Chapter4/ceph_monitor.md)
+        * [4.1.1.概览](Chapter4/zone_summary.md)
+        * [4.1.2.分布式存储监控](Chapter4/ceph_monitor.md)
     * 4.2.虚拟资源管理
         * [4.2.1.虚拟机管理](Chapter4/virtual_resource/vm_management.md)
         * [4.2.2.虚拟机快照管理](Chapter4/virtual_resource/snapshsot_management.md)
